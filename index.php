@@ -20,7 +20,7 @@ $client = new \GuzzleHttp\Client([
 ]);
 
 $env = 'sandbox'; //X-Target-Environment
-$ocp = '9aa23a3a28bc46ea96004885db8a81c5'; //Ocp-Apim-Subscription-Key
+$ocp = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'; //Ocp-Apim-Subscription-Key
 $callback = 'localhost';
 
 
